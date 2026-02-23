@@ -8,10 +8,10 @@ Personal portfolio of my data analytics projects
 * Created an in-depth implementation plan using predictive modeling, demonstrating feasibility and
 outlining milestones in the project’s integration.
 
-# Technology Sales Reps Regression Analysis - Dhillon School of Business
+# Technology Sales Regression Analysis - Dhillon School of Business
 * Determined the most influential factors that drive compensation, refining pay structure to address
 budget constraints and ensure competitiveness in the market.
 * Communicated recommendations and next steps for decision-making and deployment.
 
-![](https://github.com/brycesolis9/Bryce_Portfolio/blob/main/images/Regression%20ScreenShot%20of%20variable%20drivers%20for%20portfolio.PNG)
-![](https://github.com/brycesolis9/Bryce_Portfolio/blob/main/images/histogram%20image.png)
+![](https://github.com/brycesolis9/Bryce_Portfolio/blob/main/images/Regression%20ScreenShot%20of%20variable%20drivers%20for%20portfolio.png)
+

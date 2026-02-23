@@ -11,4 +11,4 @@ outlining milestones in the project’s integration.
 # Technology Sales Reps Regression Analysis - Dhillon School of Business
 * Determined the most influential factors that drive compensation, refining pay structure to address
 budget constraints and ensure competitiveness in the market.
-* Communicated recommendations and next steos for decision-making and deployment.
+* Communicated recommendations and next steps for decision-making and deployment.

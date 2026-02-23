@@ -1,4 +1,4 @@
-# Bryce_Portfolio
+# Bryce Portfolio
 Personal portfolio of my data analytics projects
 
 # Western Canada Retired Ties Project - CPKC Rail

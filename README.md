@@ -1,2 +1,2 @@
 # Bryce_Portfolio
-Personal portfolio of all my data analytics projects
+Personal portfolio of my data analytics projects

@@ -12,3 +12,6 @@ outlining milestones in the project’s integration.
 * Determined the most influential factors that drive compensation, refining pay structure to address
 budget constraints and ensure competitiveness in the market.
 * Communicated recommendations and next steps for decision-making and deployment.
+
+![](https://github.com/brycesolis9/Bryce_Portfolio/blob/main/images/Regression%20ScreenShot%20of%20variable%20drivers%20for%20portfolio.png)
+![](https://github.com/brycesolis9/Bryce_Portfolio/blob/main/images/histogram%20image.png)

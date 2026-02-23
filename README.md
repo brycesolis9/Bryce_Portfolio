@@ -13,5 +13,5 @@ outlining milestones in the project’s integration.
 budget constraints and ensure competitiveness in the market.
 * Communicated recommendations and next steps for decision-making and deployment.
 
-![](https://github.com/brycesolis9/Bryce_Portfolio/blob/main/images/Regression.png)
+![](./images/Regression.png)
 

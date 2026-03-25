@@ -7,12 +7,3 @@ Personal portfolio of my data analytics projects
 * Created an in-depth implementation plan using predictive modeling, demonstrating feasibility and
 outlining milestones in the project’s integration.
 <img width="1000" height="800" alt="railties proposal" src="https://github.com/user-attachments/assets/332ba22d-f008-4175-a684-b8fbcdf1d845" />
-
-
-# Technology Sales Regression Analysis - Dhillon School of Business
-* Determined the most influential factors that drive compensation, refining pay structure to address
-budget constraints and ensure competitiveness in the market.
-* Communicated recommendations and next steps for decision-making and deployment.
-
-![](./images/Regression.png)
-
